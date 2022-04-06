@@ -1,7 +1,7 @@
 {
   "tests": [
     {
-      "name": "Test coincidencia",
+      "name": "Coincidencia",
       "setup": "",
       "run": "python main.py",
       "input": "",
